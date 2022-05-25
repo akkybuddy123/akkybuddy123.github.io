@@ -6,6 +6,11 @@ h1{
   text-align: center;
 }
 
+#container {
+  position: relative;
+  
+}
+
 p {
   background-color: #bfbfbf;
   border: 2px solid black;
